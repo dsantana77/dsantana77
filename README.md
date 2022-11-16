@@ -71,8 +71,10 @@
   
 &nbsp;  
 
-  <!-- Skills to learn -->
+  <!--Learning Skills-->
 <p><H3 align="center"><strong>Skills to learn: 🌐</strong></p>
+  
+  <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"</code>
   
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/101125928-05122400-35c0-11eb-836b-4c2e4de16070.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/99864609-ecd6e980-2b69-11eb-8268-1a455c00eefe.png"></code>
