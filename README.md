@@ -55,7 +55,7 @@
 <!-- Technical Skills -->
 <p><H3 align="center"><strong> Technical Skills: 💻 </strong></p>
   
-  <code><img height="40" src="https://user-images.githubusercontent.com/72226021/202269647-be382ec2-cfff-481d-a8df-29235600158f.png"></code> //windows
+  <code><img height="40" src="https://user-images.githubusercontent.com/72226021/202269647-be382ec2-cfff-481d-a8df-29235600158f.png"></code> /*windows*/
   <code><img height="40" src="https://user-images.githubusercontent.com/72226021/202270337-566bf036-e3b2-4efb-9259-093d3c9a7c8c.png"></code> //Office
   <code><img height="40" src="https://user-images.githubusercontent.com/72226021/202271720-29603ebd-6071-4b4e-b053-879c98b4f531.png"></code> //Teams
   <code><img height="40" src="https://user-images.githubusercontent.com/72226021/202270888-6c6209e4-e531-4122-9b4b-19ae13f7100f.jpg"></code> //zoom
