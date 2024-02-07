@@ -6,6 +6,8 @@
 
 <!-- Quote -->
 <H2 align="center">Uma mente que se abre a uma nova ideia, jamais voltará ao seu tamanho original.</H2>
+<br>
+<H2 align="center">A mind that opens to a new idea will never return to its original size.</H2>
 
 <P align="right">Albert Einstein</P>
   
