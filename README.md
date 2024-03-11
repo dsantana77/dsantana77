@@ -42,17 +42,17 @@
 <h3><b>Technical Skills: Python, Java, Machine Learning, PowerBI, eclipse IDE, VsCode, BigData</b></h3>
 
 
-<h2>Education:</h2>
+<h2><b>Education:</b></h2>
 <p> - Masters in Data Science e Business Analytics</p>
 <p> - MBA Marketing</p>
 <p> - Bachelor of Business Administration</p>
 <p> - technical level in web development</p>
 <p> - Data Training</p>
 
-<h2>PROFILE SUMMARY:</h2>
+<h2><b>PROFILE SUMMARY:</b></h2>
 <p>Graduated in Business Administration, Master's in Data Science & Business Analytics, I have experience with large amounts of data in multinationals in controlling departments; preparing dashboards and reposts for these companies. The experiences accumulated in various types of companies gave me a very complete vision for problem solving and information analysis. I am self-driven, fast, focused on results, but also a team-player and an excellent communicator.</p>
 
-<h2>Working Experience:</h2>
+<h2><b>Working Experience:</b></h2>
 <h4>CONSISTE - Consultoria e Sistemas Ltda</h4>
   <p>- Data preparation and pre-processing (CSV, JSON, EXCEL), binning, ranking, standardization, Aggregation and relativization (Python, JAVA, Elastic, Docker, Eclipse)</p>
   <p>- Develop applications that will automate Web scraping, open data, which will be consumed by XTR periodically</p>
@@ -68,7 +68,7 @@
   <p>- Project Management</p>
   <p>- Organization and standardization of engineering cost data for investment and assembly of the investment plan </p>
 
-     <h4>, Brazily</h4>
+  <h4>Volkswagen, Brazily</h4>
   <p>- Development of data and dashboard for budget and forecast controls for the electrical department, improving presentations and management analysis.</p>
   <p>- Organization and standardization of engineering cost data for investment and assembly of the investment plan.</p>
 
