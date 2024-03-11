@@ -54,6 +54,9 @@
 <p><H3 align="center"><strong> Technical Skills: 💻 </strong></p>
 
  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+ <code><img height="40" src="https://user-images.githubusercontent.com/72226021/202277899-93a83607-2449-4de6-80bc-3658c8d8be07.png"></code>
+ <code><img height="40" src="https://user-images.githubusercontent.com/72226021/202277906-ae6daab6-ec55-430a-be80-7e975446a582.png"></code>
+ <code><img height="40" src="https://user-images.githubusercontent.com/72226021/202277001-77229e6c-c86a-4985-9942-982bc26a056f.png"></code>
  </br>
 
   
