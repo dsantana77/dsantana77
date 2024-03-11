@@ -1,15 +1,11 @@
 <!-- Title -->
 
 <!-- Quote -->
-<H2 align="center">"Uma mente que se abre a uma nova ideia, jamais voltará ao seu tamanho original / A mind that opens to a new idea will never return to its original size".</H2>
+<H2 align="center">"Uma mente que se abre a uma nova ideia, jamais voltará ao seu tamanho original
+  A mind that opens to a new idea will never return to its original size".</H2>
 <P align="right">Albert Einstein</P>
 
-<h1>Data Scientist</h1>
-<h3><b>Technical Skills: Python, R, Machine Learning, PowerBI, BigData</b></h3>
 
-
-
-  
   <!-- Social Network -->
 <h1 align="center">
 <a href="https://www.instagram.com/dsantana77/">
@@ -42,8 +38,15 @@
   </a>
 </h1>
 
+<h1>Data Scientist</h1>
+<h3><b>Technical Skills: Python, Java, Machine Learning, PowerBI, BigData</b></h3>
 
-
+<h2>Educationa</h2>
+<p> - Masters in Data Science e Business Analytics</p>
+<p> - MBA Marketing</p>
+<p> - Bachelor of Business Administration</p>
+<p> - technical level in web development</p>
+<p> - Data Training</p>
 
 <!-- Background -->
 
