@@ -1,11 +1,14 @@
 <!-- Title -->
 
 <!-- Quote -->
-<H2 align="center">"Uma mente que se abre a uma nova ideia, jamais voltará ao seu tamanho original".</H2>
-<br>
-<H2 align="center">"A mind that opens to a new idea will never return to its original size".</H2>
-
+<H2 align="center">"Uma mente que se abre a uma nova ideia, jamais voltará ao seu tamanho original / A mind that opens to a new idea will never return to its original size".</H2>
 <P align="right">Albert Einstein</P>
+
+<h1>Data Scientist</h1>
+<h3><b>Technical Skills: Python, R, Machine Learning, PowerBI, BigData</b></h3>
+
+
+
   
   <!-- Social Network -->
 <h1 align="center">
