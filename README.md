@@ -41,7 +41,6 @@
 <h1>Data Scientist</h1>
 <h3><b>Technical Skills: Python, Java, Machine Learning, PowerBI, eclipse IDE, VsCode, BigData</b></h3>
 
-
 <h2><b>Education:</b></h2>
 <p> - Masters in Data Science e Business Analytics</p>
 <p> - MBA Marketing</p>
@@ -68,7 +67,7 @@
   <p>- Project Management</p>
   <p>- Organization and standardization of engineering cost data for investment and assembly of the investment plan </p>
 
-  <h4>Volkswagen, Brazily</h4>
+  <h4>Volkswagen, São Bernardo do Campo, Brazil</h4>
   <p>- Development of data and dashboard for budget and forecast controls for the electrical department, improving presentations and management analysis.</p>
   <p>- Organization and standardization of engineering cost data for investment and assembly of the investment plan.</p>
 
