@@ -1,8 +1,4 @@
 <!-- Title -->
-<h1 align="center">Hello World 
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
-       width="30px"></h1>
-
 
 <!-- Quote -->
 <H2 align="center">"Uma mente que se abre a uma nova ideia, jamais voltará ao seu tamanho original".</H2>
