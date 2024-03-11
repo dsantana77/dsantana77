@@ -39,31 +39,45 @@
 </h1>
 
 <h1>Data Scientist</h1>
-<h3><b>Technical Skills: Python, Java, Machine Learning, PowerBI, BigData</b></h3>
+<h3><b>Technical Skills: Python, Java, Machine Learning, PowerBI, eclipse IDE, VsCode, BigData</b></h3>
 
 
-<h2>Education</h2>
+<h2>Education:</h2>
 <p> - Masters in Data Science e Business Analytics</p>
 <p> - MBA Marketing</p>
 <p> - Bachelor of Business Administration</p>
 <p> - technical level in web development</p>
 <p> - Data Training</p>
 
+<h2>PROFILE SUMMARY:</h2>
+<p>Graduated in Business Administration, Master's in Data Science & Business Analytics, I have experience with large amounts of data in multinationals in controlling departments; preparing dashboards and reposts for these companies. The experiences accumulated in various types of companies gave me a very complete vision for problem solving and information analysis. I am self-driven, fast, focused on results, but also a team-player and an excellent communicator.</p>
+
+<h2>Working Experience:</h2>
+<h4>CONSISTE - Consultoria e Sistemas Ltda</h4>
+  <p>- Data preparation and pre-processing (CSV, JSON, EXCEL), binning, ranking, standardization, Aggregation and relativization (Python, JAVA, Elastic, Docker, Eclipse)</p>
+  <p>- Develop applications that will automate Web scraping, open data, which will be consumed by XTR periodically</p>
+  <p>- Data cleaning and pre-processing, Converting data to the most appropriate data types, Standardizing data that have different units of measure or different references, Homogenizing missing data encoding, homogenizing data granularity</p>
+
+  <h4>SILVA S. MENEZES IT Consulting, Portugal / Norway</h4>
+  <p>- Logic / flowchart / Charts / Presentations</p>
+  <p>- Front-end development (JavaScript / CSS / HTML)</p>
+  <p>- Back-end development (Java)</p>
+
+   <h4>MR Assessoria Esportiva, Salvador, Brazily</h4>
+  <p>- Analysis of financial data and reports</p>
+  <p>- Project Management</p>
+  <p>- Organization and standardization of engineering cost data for investment and assembly of the investment plan </p>
+
+     <h4>, Brazily</h4>
+  <p>- Development of data and dashboard for budget and forecast controls for the electrical department, improving presentations and management analysis.</p>
+  <p>- Organization and standardization of engineering cost data for investment and assembly of the investment plan.</p>
+
+
 
 <!-- Background -->
 
-
-<!-- Technical Skills -->
- <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
- <code><img height="40" src="https://github.com/dsantana77/dsantana77/assets/72226021/d0c8c986-6cc6-4db7-9ad1-6f5d435f122d"></code>
- <code><img height="40" src="https://user-images.githubusercontent.com/72226021/202276995-abe514e6-c244-453e-bb11-e37a5a4f88e1.png"></code>
- <code><img height="40" src="https://github.com/dsantana77/dsantana77/assets/72226021/880750da-fdf2-4724-8442-cd22423fa1fb"></code>
- <code><img height="40" src="https://user-images.githubusercontent.com/72226021/202277899-93a83607-2449-4de6-80bc-3658c8d8be07.png"></code>  
- <code><img height="40" src="https://user-images.githubusercontent.com/72226021/202277906-ae6daab6-ec55-430a-be80-7e975446a582.png"></code>
- <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146218-b57ccf00-470b-11eb-8fcc-aa46cab9253f.png"></code>
- <code><img height="40" src="https://user-images.githubusercontent.com/55005374/100187906-b7eecd80-2eae-11eb-8074-b65db8dfaecb.png"></code>
-  
 &nbsp;  
+
 
  
 <!-- GitHub Stats -->
