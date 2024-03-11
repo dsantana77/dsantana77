@@ -54,14 +54,13 @@
 <p><H3 align="center"><strong> Technical Skills: 💻 </strong></p>
 
  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+ <code><img height="40" src="https://github.com/dsantana77/dsantana77/assets/72226021/d0c8c986-6cc6-4db7-9ad1-6f5d435f122d"></code>
  <code><img height="40" src="https://user-images.githubusercontent.com/72226021/202276995-abe514e6-c244-453e-bb11-e37a5a4f88e1.png"></code>
  <code><img height="40" src="https://user-images.githubusercontent.com/72226021/202277899-93a83607-2449-4de6-80bc-3658c8d8be07.png"></code>
   <code><img height="40" src="https://github.com/dsantana77/dsantana77/assets/72226021/880750da-fdf2-4724-8442-cd22423fa1fb"></code>
  <code><img height="40" src="https://user-images.githubusercontent.com/72226021/202277906-ae6daab6-ec55-430a-be80-7e975446a582.png"></code>
  <code><img height="40" src="https://user-images.githubusercontent.com/72226021/202277001-77229e6c-c86a-4985-9942-982bc26a056f.png"></code>
- </br>
-
-  
+ </br>  
   <code><img height="40" src="https://user-images.githubusercontent.com/72226021/202269647-be382ec2-cfff-481d-a8df-29235600158f.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/72226021/202270337-566bf036-e3b2-4efb-9259-093d3c9a7c8c.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/72226021/202271720-29603ebd-6071-4b4e-b053-879c98b4f531.png"></code>
@@ -83,7 +82,6 @@
   <code><img height="40" src="https://user-images.githubusercontent.com/72226021/202277015-36e1c177-41b7-4747-8bb3-fcf7f912a8b2.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/72226021/202277001-77229e6c-c86a-4985-9942-982bc26a056f.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/72226021/202277888-c59eeb03-7cec-4a7d-94db-844771549c9c.png"></code>
-
   </p>
   
 &nbsp;  
