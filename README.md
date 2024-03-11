@@ -41,24 +41,19 @@
 <h1>Data Scientist</h1>
 <h3><b>Technical Skills: Python, Java, Machine Learning, PowerBI, BigData</b></h3>
 
-<h2>Educationa</h2>
+
+<h2>Education</h2>
 <p> - Masters in Data Science e Business Analytics</p>
 <p> - MBA Marketing</p>
 <p> - Bachelor of Business Administration</p>
 <p> - technical level in web development</p>
 <p> - Data Training</p>
 
+
 <!-- Background -->
 
-<!-- I do add this "&nbsp;" because I can't center the GIFT, let me know if you know how do it -->
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/55005374/95673501-37764680-0b66-11eb-8ee1-d4f4a2b285d9.gif)
-
-&nbsp;
 
 <!-- Technical Skills -->
-<p><H3 align="center"><strong> Technical Skills: 💻 </strong></p>
-
  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
  <code><img height="40" src="https://github.com/dsantana77/dsantana77/assets/72226021/d0c8c986-6cc6-4db7-9ad1-6f5d435f122d"></code>
  <code><img height="40" src="https://user-images.githubusercontent.com/72226021/202276995-abe514e6-c244-453e-bb11-e37a5a4f88e1.png"></code>
