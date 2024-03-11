@@ -71,7 +71,7 @@
   <p>- Organization and standardization of engineering cost data for investment and assembly of the investment plan.</p>
 
 
-<h2><b>Project: </b></h2>
+<h2><b>Project (Masters Project / Dissertation): </b></h2>
 <p>Created Location Service App for Tourism Companies in Brazil, with mandatory registration with Cadastur, considered crucial for the tourism industry in Brazil.
 This service aims to improve legality, quality and safety in the sector, addressing challenges such as identifying unregistered companies, improving registration processes and contributing to economic development.
 The lack of clear information about the location of companies undermines trust in establishments, causes inefficiencies in local tourism projects, results in disconnected statistics and makes it difficult to effectively sell tourism products.
