@@ -38,7 +38,7 @@
 </h1>
 
 <h1>Data Scientist</h1>
-<h3><b>Technical Skills: Python, Java, Machine Learning, PowerBI, eclipse IDE, VsCode, BigData</b></h3>
+<h3><b>Technical Skills: Python, Machine Learning, PowerBI, BigData</b></h3>
 
 <h2><b>Education:</b></h2>
 <p> - Masters in Data Science e Business Analytics</p>
