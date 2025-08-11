@@ -51,6 +51,11 @@
 <p>Graduated in Business Administration, Master's in Data Science & Business Analytics, I have experience with large amounts of data in multinationals in controlling departments; preparing dashboards and reposts for these companies. The experiences accumulated in various types of companies gave me a very complete vision for problem solving and information analysis. I am self-driven, fast, focused on results, but also a team-player and an excellent communicator.</p>
 
 <h2><b>Working Experience:</b></h2>
+<h4>Grupo Águia Branca</h4>
+  <p>-Automatização de processos-chave com Python, SQL, Knime e Power BI, otimizando a distribuição de receitas e metas de performance.</p>
+  <p>- Manutenção de 20 RPAs para monitoramento de mercado com Python, Selenium, Azure Blob e Git.</p>
+  <p>- Análises de mercado e concorrência, com previsão de aumento de receita em 20% via classificação de potenciais mercados.</p>
+
 <h4>CONSISTE - Consultoria e Sistemas Ltda</h4>
   <p>- Data preparation and pre-processing (CSV, JSON, EXCEL), binning, ranking, standardization, Aggregation and relativization (Python, JAVA, Elastic, Docker, Eclipse)</p>
   <p>- Develop applications that will automate Web scraping, open data, which will be consumed by XTR periodically</p>
